@@ -43,9 +43,3 @@
  &emsp; - Feel free to ask me anything, any time! 
 
 </p>
-
-<br/>
-<br/>
-<br/>
-
-<br/>

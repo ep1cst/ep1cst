@@ -38,7 +38,7 @@
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
  &emsp; - I love programming and sharing knowledge <br/><br/>
- &emsp; - Love to writing code and learning new features<br/><br/>
+ &emsp; - Love to write code and learn new features<br/><br/>
  &emsp; - Reach me anytime: koolhaas.james@gmail.com<br/><br/>
  &emsp; - Feel free to ask me anything, any time! 
 
